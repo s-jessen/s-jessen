@@ -3,13 +3,15 @@
 I'm a bioinformatician/physiologist with 10+ years in clinical research primarily relating to β₂-adrenergic stimulation in skeletal muscle. I specialize in data science and analysis of large complex data sets.
 
 - 🎓 PhD in Human Physiology — focused on muscle biology & β₂-adrenergic stimulation
-- 🎓 Dual MSc — Human Physiology + Computational Biomedicine
+- 🎓 MSc Human Physiology
+- 🎓 MSc Computational Biomedicine
 
 ### On my GitHub, you’ll find completed and ongoing projects
 - 🧬 Proteomics pipeline — data wrangling & analysis for complex omics datasets
 - 🐳 Proteomics + Snakemake + Docker — fully reproducible, containerized workflow magic
 - 🧠 Machine learning approaches (Neural Network and Random Forest) to classify clinical samples
-- 🐍 Python simulation — a fun and interactive simulation relating to the spread of fire in a virtual forest 
+- 🐍 Python simulation — a fun and interactive simulation relating to the spread of fire in a virtual forest
+- 🧬 RNA-seq pipeline — reproducible differential expression analysis with Snakemake + Docker
 
 ### My skills and interests
 - 💻 Python, R, Snakemake, Docker, Git, Linux (Arch, btw)
