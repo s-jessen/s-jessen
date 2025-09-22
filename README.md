@@ -12,6 +12,7 @@ I'm a bioinformatician/physiologist with 10+ years in clinical research primaril
 - 🧠 Machine learning approaches (Neural Network and Random Forest) to classify clinical samples
 - 🐍 Python simulation — a fun and interactive simulation relating to the spread of fire in a virtual forest
 - 🧬 RNA-seq pipeline — reproducible differential expression analysis with Snakemake + Docker
+- 🔎 Clustering demo — exploring K-means, EM, and DBSCAN on toy data to illustrate their strengths, weaknesses, and assumptions
 
 ### My skills and interests
 - 💻 Python, R, Snakemake, Docker, Git, Linux (Arch, btw)
