@@ -7,11 +7,10 @@ I'm a bioinformatician/physiologist with 10+ years in clinical research primaril
 - 🎓 MSc Computational Biomedicine
 
 ### On my GitHub, you’ll find completed and ongoing projects
-- 🧬 [Proteomics pipeline — data wrangling & analysis for omics datasets](https://github.com/s-jessen/manuscript_beta2_single_fiber)
-- 🐳 [Proteomics + Snakemake + Docker — fully reproducible, containerized workflow](https://github.com/s-jessen/manuscript_beta2_single_fiber_snakemake)
+- 🐳 [Proteomics + Snakemake + Docker — fully reproducible, containerized workflow](https://github.com/s-jessen/b2a_res_single_fiber)
+- 🧬 [RNA-seq pipeline — reproducible differential expression analysis with Snakemake + Docker](https://github.com/s-jessen/rna_seq)
 - 🧠 [Machine learning approaches (Neural Network and Random Forest) to classify clinical samples](https://github.com/s-jessen/machine_learning_classification_heart_disease)
 - 🐍 [Python simulation — a fun and interactive simulation relating to the spread of fire in a virtual forest](https://github.com/s-jessen/simulation_python_firefighters)
-- 🧬 [RNA-seq pipeline — reproducible differential expression analysis with Snakemake + Docker](https://github.com/s-jessen/rna_seq)
 - 🔎 [Clustering lab — hands-on exploration of K-means, EM, and DBSCAN for identification of crescent vs. spherical clusters](https://github.com/s-jessen/clustering_algorithms)
 
 ### My skills and interests
